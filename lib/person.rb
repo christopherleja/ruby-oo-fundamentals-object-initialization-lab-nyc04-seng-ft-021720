@@ -4,4 +4,6 @@ class Person
     @name = name
   end
   
+  
+  
 end
